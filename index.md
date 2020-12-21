@@ -12,7 +12,6 @@ right shift - split
 alt-a - arpeggiator
 
 
-
 alt-r randomize at piano roll
 
 
