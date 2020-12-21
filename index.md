@@ -10,7 +10,6 @@ Possible conflicts показывает сдвоенные ноты!! Select ove
 
 right shift - split
 
-
 alt-a - arpeggiator
 
 
