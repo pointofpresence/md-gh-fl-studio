@@ -1,5 +1,5 @@
 # Фишки FL Studio
-<!-- copyright: ReSampled -->
+<!-- copyright: ReSampled 2 -->
 
 # Piano roll
    ![image](images/image7.png)
