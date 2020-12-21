@@ -1,6 +1,6 @@
 # Фишки FL Studio
 # Piano roll
-   ![image](images/image7.png)
+   ![image](./images/image7.png)
 
 Possible conflicts показывает сдвоенные ноты!! Select overlappng notes
 
