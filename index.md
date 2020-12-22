@@ -70,7 +70,8 @@ If it seems familiar to you, that is because I mentioned this shortcut key befor
 
 
 -----------
-         # Channel rack
+
+# Channel rack
    ![image](images/image17.jpg)
 
 (Ниже опции для сдвига влево вправ)
