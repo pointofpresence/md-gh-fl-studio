@@ -1,5 +1,5 @@
 # Фишки FL Studio
-<!-- copyright: ReSampled 2 -->
+<!-- copyright: ReSampled 3 -->
 
 # Piano roll
    ![image](images/image7.png)
@@ -14,7 +14,6 @@ alt-a - arpeggiator
 
 
 alt-r randomize at piano roll
-
 
 
 Piano roll / mixer / playlist - CTRL-SHIFT-CLICK позволяет выбрать отдельные элементы
