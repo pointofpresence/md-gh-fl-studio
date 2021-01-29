@@ -17,7 +17,7 @@ Piano roll / mixer / playlist - CTRL-SHIFT-CLICK позволяет выбрат
 
 Еще одним полезным помощником может стать функция Waveform View, отображающая звуковую волну на фоне нот в Piano Roll. Найти эту функцию можно перейдя в меню Options — Helpers — Background Waveform в окне опций Piano Roll
 
-Piano roll / playlist - CTRL-B - копировать выделенный элемент и дублировать его справа
+Piano roll / playlist - CTRL-B (работает и в [[Playlist]]) - копировать выделенный элемент и дублировать его справа
 
 Piano roll SHIFT-D укорачиваети ноты до снэп-значения
 
