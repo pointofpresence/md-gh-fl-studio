@@ -3,6 +3,8 @@
 
 # Piano roll
 
+https://www.youtube.com/watch?v=44g_3ZVqiYo
+
 ![image](images/image7.png)
 
 Possible conflicts показывает сдвоенные ноты!! Select overlappng notes
