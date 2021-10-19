@@ -1,5 +1,9 @@
 # Фишки FL Studio
-<!-- copyright: ReSampled 3 -->
+<!-- copyright: Seejay & ReSampled-->
+
+# Goods
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jS-1dMWEnIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Piano roll
 
