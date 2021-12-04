@@ -3,6 +3,10 @@
 
 # Goods
 
+Автомация при нажатии на С5 - Леер вместе с соло для модуляции или сайдчейна
+
+https://youtu.be/snCcLF30tjw
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jS-1dMWEnIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Piano roll
